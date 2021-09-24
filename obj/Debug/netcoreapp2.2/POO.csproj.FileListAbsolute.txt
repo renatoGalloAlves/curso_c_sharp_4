@@ -1,0 +1,11 @@
+/home/gallo/Área de Trabalho/CSharpe_itau/POO/bin/Debug/netcoreapp2.2/POO.deps.json
+/home/gallo/Área de Trabalho/CSharpe_itau/POO/bin/Debug/netcoreapp2.2/POO.runtimeconfig.json
+/home/gallo/Área de Trabalho/CSharpe_itau/POO/bin/Debug/netcoreapp2.2/POO.runtimeconfig.dev.json
+/home/gallo/Área de Trabalho/CSharpe_itau/POO/bin/Debug/netcoreapp2.2/POO.dll
+/home/gallo/Área de Trabalho/CSharpe_itau/POO/bin/Debug/netcoreapp2.2/POO.pdb
+/home/gallo/Área de Trabalho/CSharpe_itau/POO/obj/Debug/netcoreapp2.2/POO.csprojAssemblyReference.cache
+/home/gallo/Área de Trabalho/CSharpe_itau/POO/obj/Debug/netcoreapp2.2/POO.csproj.CoreCompileInputs.cache
+/home/gallo/Área de Trabalho/CSharpe_itau/POO/obj/Debug/netcoreapp2.2/POO.AssemblyInfoInputs.cache
+/home/gallo/Área de Trabalho/CSharpe_itau/POO/obj/Debug/netcoreapp2.2/POO.AssemblyInfo.cs
+/home/gallo/Área de Trabalho/CSharpe_itau/POO/obj/Debug/netcoreapp2.2/POO.dll
+/home/gallo/Área de Trabalho/CSharpe_itau/POO/obj/Debug/netcoreapp2.2/POO.pdb
