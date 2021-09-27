@@ -24,7 +24,7 @@ namespace Cadastros
 
     public void Andar()
     {
-      this.Andar(1)
+      this.Andar(1);
     }
     public void Andar(decimal metros)
     {

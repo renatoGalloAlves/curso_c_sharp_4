@@ -1,9 +1,11 @@
 ﻿using System;
+using Cadastros;
 
 namespace POO {
     class Program {
         static void Main(string[] args) {
 
+            Pessoa pessoa1=new Pessoa();
             
                 //switch case
             // Console.WriteLine("Por Favor, digite o dia da semana:");
