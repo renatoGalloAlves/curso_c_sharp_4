@@ -15,7 +15,7 @@ namespace Cadastros
       //TODO:Construtor
     }
 
-    public Pessoa(String nome, string sobrenome, DateTime datanascimento)
+    public Pessoa(string nome, string sobrenome, DateTime datanascimento)
     {
       this.Nome=nome;
       this.Sobrenome=sobrenome;
